@@ -1,0 +1,7 @@
+2019-12-28 15:28:48,053 INFO  [org.jboss.modules] (main) JBoss Modules version 1.9.1.Final
+2019-12-28 15:28:48,608 INFO  [org.jboss.msc] (main) JBoss MSC version 1.4.11.Final
+2019-12-28 15:28:48,619 INFO  [org.jboss.threads] (main) JBoss Threads version 2.3.3.Final
+2019-12-28 15:28:48,672 INFO  [org.jboss.as] (MSC service thread 1-1) WFLYSRV0049: WildFly Full 18.0.1.Final (WildFly Core 10.0.3.Final) starting
+2019-12-28 15:28:49,191 INFO  [org.jboss.as.host.controller] (main) WFLYHC0179: ProcessController has signalled to shut down; shutting down
+2019-12-28 15:28:49,229 INFO  [org.wildfly.security] (Host Controller Service Threads - 4) ELY00001: WildFly Elytron version 1.10.4.Final
+2019-12-28 15:28:49,241 INFO  [org.jboss.as] (MSC service thread 1-6) WFLYSRV0050: WildFly Full 18.0.1.Final (WildFly Core 10.0.3.Final) stopped in 49ms
