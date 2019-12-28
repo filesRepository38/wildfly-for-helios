@@ -86,7 +86,7 @@ if [ "x$JAVA" = "x" ]; then
     if [ "x$JAVA_HOME" != "x" ]; then
         JAVA="$JAVA_HOME/bin/java"
     else
-        JAVA="java"
+        JAVA="java18"
     fi
 fi
 
